@@ -16,6 +16,7 @@
 - Calibre  
 - [online-convert](https://www.online-convert.com/)  
 - [convertio](https://convertio.co/zh/)  
+- [Practical Web Tools](https://practicalwebtools.com/) — 1,400+ free browser tools incl. ebook converters (EPUB/MOBI/PDF) and PDF editors, all client-side
 - [小蜜蜂在线电子书转换器](http://cn.epubee.com/)  
 
 ## 参考链接  
